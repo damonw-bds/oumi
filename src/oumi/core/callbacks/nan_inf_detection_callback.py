@@ -54,6 +54,7 @@ class NanInfDetectionCallback(BaseTrainerCallback):
     ):
         """Event called after logging the last logs."""
         metrics_dict = kwargs.pop(_LOGS_KWARG, None)
+        
         if not metrics_dict:
             return
 
