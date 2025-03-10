@@ -12,7 +12,10 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-"""Evaluation module for the Oumi (Open Universal Machine Intelligence) library.
+"""GRPO datasets module."""
 
-This module provides various utils for running model evaluations.
-"""
+from oumi.datasets.grpo.tldr import TldrGrpoDataset
+
+__all__ = [
+    "TldrGrpoDataset",
+]
