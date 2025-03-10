@@ -1,0 +1,740 @@
+{
+    "projectId": "d267310d-4f7e-4449-b089-1129048691ad",
+    "releaseSet": [
+        "703d0296-9697-438c-80d4-31d9d455602c"
+    ],
+    "pathComponentHashCount": {},
+    "sigWithFilesMap": {
+        "MATCH_SHA1:7b71d8eb94581f843fb305b6b9d51fb8d6daf560": {
+            "releaseId": "703d0296-9697-438c-80d4-31d9d455602c",
+            "versionCount": 1,
+            "filePathComponentSigSet": [],
+            "filePathSet": [],
+            "platformFilePathComponents": {
+                "UNKNOWN": [
+                    "a48a8166733902361f8dc6bdc5af458ac4555212",
+                    "40ef38f287ef90ef1ca4e52b86c3c76b686f101d",
+                    "f08295862b36eab937ba0556e5afbad6c85e705a",
+                    "e3f011edfba37732ed3018279b7166251db7d7c8",
+                    "996744b044bb99a15c0e66bfdd30414a3261c269",
+                    "bd2fd56e0d76bd7c954432d0d7e9b0b26228e10b",
+                    "d2785e8147906f5c97c15e902703552d9f4e9985"
+                ]
+            },
+            "platformFilePaths": {
+                "UNKNOWN": [
+                    "lib64",
+                    "libebl_ppc-0.168.so",
+                    "ppc",
+                    "0.168.so",
+                    "/usr/lib64/elfutils/libebl_ppc-0.168.so",
+                    "usr",
+                    "libebl",
+                    "elfutils"
+                ]
+            },
+            "archiveContext": [
+                "opensuse_leap.tar!/fcd814dd4be0c823af37e009f1fc0acc0b790da06a5c3ec41f7a06de5a8afe15/layer.tar!/"
+            ],
+            "signature": {
+                "signatureType": "MATCH_SHA1",
+                "signatureValue": "7b71d8eb94581f843fb305b6b9d51fb8d6daf560"
+            }
+        },
+        "MATCH_SHA1:05f28484134236f81ab60299546285ac1b6f0793": {
+            "releaseId": "703d0296-9697-438c-80d4-31d9d455602c",
+            "versionCount": 1,
+            "filePathComponentSigSet": [],
+            "filePathSet": [],
+            "platformFilePathComponents": {
+                "UNKNOWN": [
+                    "a48a8166733902361f8dc6bdc5af458ac4555212",
+                    "986c6ecb1f7a79803232162aded9212d1a10c860",
+                    "40ef38f287ef90ef1ca4e52b86c3c76b686f101d",
+                    "e3f011edfba37732ed3018279b7166251db7d7c8",
+                    "a995c8aef59fb06e167c2b9259ee6a7bf5ce3dba",
+                    "996744b044bb99a15c0e66bfdd30414a3261c269",
+                    "bd2fd56e0d76bd7c954432d0d7e9b0b26228e10b"
+                ]
+            },
+            "platformFilePaths": {
+                "UNKNOWN": [
+                    "lib64",
+                    "s390",
+                    "0.168.so",
+                    "usr",
+                    "/usr/lib64/elfutils/libebl_s390-0.168.so",
+                    "libebl",
+                    "libebl_s390-0.168.so",
+                    "elfutils"
+                ]
+            },
+            "archiveContext": [
+                "opensuse_leap.tar!/fcd814dd4be0c823af37e009f1fc0acc0b790da06a5c3ec41f7a06de5a8afe15/layer.tar!/"
+            ],
+            "signature": {
+                "signatureType": "MATCH_SHA1",
+                "signatureValue": "05f28484134236f81ab60299546285ac1b6f0793"
+            }
+        },
+        "MATCH_SHA1:6be17799147c9821fecfbc5a3829c1e7524c2653": {
+            "releaseId": "703d0296-9697-438c-80d4-31d9d455602c",
+            "versionCount": 1,
+            "filePathComponentSigSet": [],
+            "filePathSet": [],
+            "platformFilePathComponents": {
+                "UNKNOWN": [
+                    "a48a8166733902361f8dc6bdc5af458ac4555212",
+                    "40ef38f287ef90ef1ca4e52b86c3c76b686f101d",
+                    "fe896346c08d1ec2f4c6d7a9c866d83f5337df22",
+                    "e3f011edfba37732ed3018279b7166251db7d7c8",
+                    "996744b044bb99a15c0e66bfdd30414a3261c269",
+                    "bd2fd56e0d76bd7c954432d0d7e9b0b26228e10b",
+                    "d0506bebb627b093b791709b2a0e90aa36045ec2"
+                ]
+            },
+            "platformFilePaths": {
+                "UNKNOWN": [
+                    "lib64",
+                    "0.168.so",
+                    "usr",
+                    "libebl_m68k-0.168.so",
+                    "/usr/lib64/elfutils/libebl_m68k-0.168.so",
+                    "libebl",
+                    "m68k",
+                    "elfutils"
+                ]
+            },
+            "archiveContext": [
+                "opensuse_leap.tar!/fcd814dd4be0c823af37e009f1fc0acc0b790da06a5c3ec41f7a06de5a8afe15/layer.tar!/"
+            ],
+            "signature": {
+                "signatureType": "MATCH_SHA1",
+                "signatureValue": "6be17799147c9821fecfbc5a3829c1e7524c2653"
+            }
+        },
+        "MATCH_SHA1:1fc899dba7083e2ce3b6815a4f58aa4570216dc5": {
+            "releaseId": "703d0296-9697-438c-80d4-31d9d455602c",
+            "versionCount": 1,
+            "filePathComponentSigSet": [],
+            "filePathSet": [],
+            "platformFilePathComponents": {
+                "UNKNOWN": [
+                    "a48a8166733902361f8dc6bdc5af458ac4555212",
+                    "40ef38f287ef90ef1ca4e52b86c3c76b686f101d",
+                    "88e1302528802532ea4fd3868e55ee4c38d2ad08",
+                    "e3f011edfba37732ed3018279b7166251db7d7c8",
+                    "b8d842a06c49b8e58f65ab13247244cff7af52fa",
+                    "996744b044bb99a15c0e66bfdd30414a3261c269",
+                    "bd2fd56e0d76bd7c954432d0d7e9b0b26228e10b"
+                ]
+            },
+            "platformFilePaths": {
+                "UNKNOWN": [
+                    "lib64",
+                    "0.168.so",
+                    "usr",
+                    "libebl_ppc64-0.168.so",
+                    "/usr/lib64/elfutils/libebl_ppc64-0.168.so",
+                    "libebl",
+                    "elfutils",
+                    "ppc64"
+                ]
+            },
+            "archiveContext": [
+                "opensuse_leap.tar!/fcd814dd4be0c823af37e009f1fc0acc0b790da06a5c3ec41f7a06de5a8afe15/layer.tar!/"
+            ],
+            "signature": {
+                "signatureType": "MATCH_SHA1",
+                "signatureValue": "1fc899dba7083e2ce3b6815a4f58aa4570216dc5"
+            }
+        },
+        "MATCH_SHA1:16bcefe2c9d3bfcb4c6505d37ea1c555c23623dd": {
+            "releaseId": "703d0296-9697-438c-80d4-31d9d455602c",
+            "versionCount": 1,
+            "filePathComponentSigSet": [],
+            "filePathSet": [],
+            "platformFilePathComponents": {
+                "UNKNOWN": [
+                    "a48a8166733902361f8dc6bdc5af458ac4555212",
+                    "40ef38f287ef90ef1ca4e52b86c3c76b686f101d",
+                    "e50596833fb06679dc4db3ffd03eb29c2d2ec906",
+                    "e3f011edfba37732ed3018279b7166251db7d7c8",
+                    "1155f3108f6a340c1cb33cae6cc40612935b8e7f",
+                    "996744b044bb99a15c0e66bfdd30414a3261c269",
+                    "bd2fd56e0d76bd7c954432d0d7e9b0b26228e10b"
+                ]
+            },
+            "platformFilePaths": {
+                "UNKNOWN": [
+                    "lib64",
+                    "0.168.so",
+                    "tilegx",
+                    "usr",
+                    "libebl_tilegx-0.168.so",
+                    "/usr/lib64/elfutils/libebl_tilegx-0.168.so",
+                    "libebl",
+                    "elfutils"
+                ]
+            },
+            "archiveContext": [
+                "opensuse_leap.tar!/fcd814dd4be0c823af37e009f1fc0acc0b790da06a5c3ec41f7a06de5a8afe15/layer.tar!/"
+            ],
+            "signature": {
+                "signatureType": "MATCH_SHA1",
+                "signatureValue": "16bcefe2c9d3bfcb4c6505d37ea1c555c23623dd"
+            }
+        },
+        "MATCH_SHA1:bf2e3cbf2359d50767d0dd4735d1f7b3f9ca1f4f": {
+            "releaseId": "703d0296-9697-438c-80d4-31d9d455602c",
+            "versionCount": 1,
+            "filePathComponentSigSet": [],
+            "filePathSet": [],
+            "platformFilePathComponents": {
+                "UNKNOWN": [
+                    "40ef38f287ef90ef1ca4e52b86c3c76b686f101d",
+                    "cd90b2d4858ffb62f72cea7dc15849f1a65a1dac",
+                    "996744b044bb99a15c0e66bfdd30414a3261c269",
+                    "bd2fd56e0d76bd7c954432d0d7e9b0b26228e10b",
+                    "bdca68ef6e2be873e0474d4b1954df3656c38ba6"
+                ]
+            },
+            "platformFilePaths": {
+                "UNKNOWN": [
+                    "lib64",
+                    "libdw-0.168.so",
+                    "0.168.so",
+                    "usr",
+                    "/usr/lib64/libdw-0.168.so",
+                    "libdw"
+                ]
+            },
+            "archiveContext": [
+                "opensuse_leap.tar!/fcd814dd4be0c823af37e009f1fc0acc0b790da06a5c3ec41f7a06de5a8afe15/layer.tar!/"
+            ],
+            "signature": {
+                "signatureType": "MATCH_SHA1",
+                "signatureValue": "bf2e3cbf2359d50767d0dd4735d1f7b3f9ca1f4f"
+            }
+        },
+        "MATCH_SHA1:25b287c1fa813d08aceabb1b6b6dfb826aff1f0e": {
+            "releaseId": "703d0296-9697-438c-80d4-31d9d455602c",
+            "versionCount": 1,
+            "filePathComponentSigSet": [],
+            "filePathSet": [],
+            "platformFilePathComponents": {
+                "UNKNOWN": [
+                    "a64c4e4437ad122717f66ec48e0d9711ff024ebd",
+                    "a48a8166733902361f8dc6bdc5af458ac4555212",
+                    "40ef38f287ef90ef1ca4e52b86c3c76b686f101d",
+                    "e3f011edfba37732ed3018279b7166251db7d7c8",
+                    "996744b044bb99a15c0e66bfdd30414a3261c269",
+                    "bd2fd56e0d76bd7c954432d0d7e9b0b26228e10b",
+                    "31794003f55513125c2c4d35e90d78a18a5dfcf7"
+                ]
+            },
+            "platformFilePaths": {
+                "UNKNOWN": [
+                    "/usr/lib64/elfutils/libebl_i386-0.168.so",
+                    "lib64",
+                    "0.168.so",
+                    "libebl_i386-0.168.so",
+                    "usr",
+                    "i386",
+                    "libebl",
+                    "elfutils"
+                ]
+            },
+            "archiveContext": [
+                "opensuse_leap.tar!/fcd814dd4be0c823af37e009f1fc0acc0b790da06a5c3ec41f7a06de5a8afe15/layer.tar!/"
+            ],
+            "signature": {
+                "signatureType": "MATCH_SHA1",
+                "signatureValue": "25b287c1fa813d08aceabb1b6b6dfb826aff1f0e"
+            }
+        },
+        "MATCH_SHA1:b0269dd5afb8aac557d2f8d3016260d299fd6896": {
+            "releaseId": "703d0296-9697-438c-80d4-31d9d455602c",
+            "versionCount": 1,
+            "filePathComponentSigSet": [],
+            "filePathSet": [],
+            "platformFilePathComponents": {
+                "UNKNOWN": [
+                    "40ef38f287ef90ef1ca4e52b86c3c76b686f101d",
+                    "996744b044bb99a15c0e66bfdd30414a3261c269",
+                    "0459afa15bc4be944d2b60b9ab50909745cee7d6",
+                    "bd2fd56e0d76bd7c954432d0d7e9b0b26228e10b",
+                    "e61b18e98426dc0d4f0083a3608064107252b072"
+                ]
+            },
+            "platformFilePaths": {
+                "UNKNOWN": [
+                    "lib64",
+                    "0.168.so",
+                    "usr",
+                    "/usr/lib64/libelf-0.168.so",
+                    "libelf",
+                    "libelf-0.168.so"
+                ]
+            },
+            "archiveContext": [
+                "opensuse_leap.tar!/fcd814dd4be0c823af37e009f1fc0acc0b790da06a5c3ec41f7a06de5a8afe15/layer.tar!/"
+            ],
+            "signature": {
+                "signatureType": "MATCH_SHA1",
+                "signatureValue": "b0269dd5afb8aac557d2f8d3016260d299fd6896"
+            }
+        },
+        "MATCH_SHA1:451aec7e2a68d3245c8bcefb7e0006803d562393": {
+            "releaseId": "703d0296-9697-438c-80d4-31d9d455602c",
+            "versionCount": 1,
+            "filePathComponentSigSet": [],
+            "filePathSet": [],
+            "platformFilePathComponents": {
+                "UNKNOWN": [
+                    "a48a8166733902361f8dc6bdc5af458ac4555212",
+                    "40ef38f287ef90ef1ca4e52b86c3c76b686f101d",
+                    "e3f011edfba37732ed3018279b7166251db7d7c8",
+                    "996744b044bb99a15c0e66bfdd30414a3261c269",
+                    "ed945d6b996ff45657c9dc7772143a932c322b66",
+                    "bd2fd56e0d76bd7c954432d0d7e9b0b26228e10b",
+                    "9dd0885e434a597db232013ac8493e095e68f618"
+                ]
+            },
+            "platformFilePaths": {
+                "UNKNOWN": [
+                    "lib64",
+                    "0.168.so",
+                    "/usr/lib64/elfutils/libebl_arm-0.168.so",
+                    "usr",
+                    "libebl",
+                    "arm",
+                    "libebl_arm-0.168.so",
+                    "elfutils"
+                ]
+            },
+            "archiveContext": [
+                "opensuse_leap.tar!/fcd814dd4be0c823af37e009f1fc0acc0b790da06a5c3ec41f7a06de5a8afe15/layer.tar!/"
+            ],
+            "signature": {
+                "signatureType": "MATCH_SHA1",
+                "signatureValue": "451aec7e2a68d3245c8bcefb7e0006803d562393"
+            }
+        },
+        "MATCH_SHA1:9c3346cd9eb5fc2907f33e1ef5e0b3a4415e6616": {
+            "releaseId": "703d0296-9697-438c-80d4-31d9d455602c",
+            "versionCount": 1,
+            "filePathComponentSigSet": [],
+            "filePathSet": [],
+            "platformFilePathComponents": {
+                "UNKNOWN": [
+                    "a48a8166733902361f8dc6bdc5af458ac4555212",
+                    "40ef38f287ef90ef1ca4e52b86c3c76b686f101d",
+                    "e3f011edfba37732ed3018279b7166251db7d7c8",
+                    "996744b044bb99a15c0e66bfdd30414a3261c269",
+                    "b980fabc34e8f32203c3b8609f3a89556066b6ca",
+                    "bd2fd56e0d76bd7c954432d0d7e9b0b26228e10b",
+                    "d9967a3eaaf8b48c48c0e34180ba1d0c4e114179"
+                ]
+            },
+            "platformFilePaths": {
+                "UNKNOWN": [
+                    "lib64",
+                    "0.168.so",
+                    "/usr/lib64/elfutils/libebl_ia64-0.168.so",
+                    "usr",
+                    "libebl_ia64-0.168.so",
+                    "ia64",
+                    "libebl",
+                    "elfutils"
+                ]
+            },
+            "archiveContext": [
+                "opensuse_leap.tar!/fcd814dd4be0c823af37e009f1fc0acc0b790da06a5c3ec41f7a06de5a8afe15/layer.tar!/"
+            ],
+            "signature": {
+                "signatureType": "MATCH_SHA1",
+                "signatureValue": "9c3346cd9eb5fc2907f33e1ef5e0b3a4415e6616"
+            }
+        },
+        "MATCH_SHA1:d9cb70b76127ddc50ebaa961860da06bea6dc143": {
+            "releaseId": "703d0296-9697-438c-80d4-31d9d455602c",
+            "versionCount": 1,
+            "filePathComponentSigSet": [],
+            "filePathSet": [],
+            "platformFilePathComponents": {
+                "UNKNOWN": [
+                    "a48a8166733902361f8dc6bdc5af458ac4555212",
+                    "40ef38f287ef90ef1ca4e52b86c3c76b686f101d",
+                    "476ad8ba6d7607fe5ff41dfc98285ea7e6a17f46",
+                    "e3f011edfba37732ed3018279b7166251db7d7c8",
+                    "996744b044bb99a15c0e66bfdd30414a3261c269",
+                    "bd2fd56e0d76bd7c954432d0d7e9b0b26228e10b"
+                ]
+            },
+            "platformFilePaths": {
+                "UNKNOWN": [
+                    "lib64",
+                    "0.168.so",
+                    "libebl_sh-0.168.so",
+                    "usr",
+                    "libebl",
+                    "/usr/lib64/elfutils/libebl_sh-0.168.so",
+                    "elfutils"
+                ]
+            },
+            "archiveContext": [
+                "opensuse_leap.tar!/fcd814dd4be0c823af37e009f1fc0acc0b790da06a5c3ec41f7a06de5a8afe15/layer.tar!/"
+            ],
+            "signature": {
+                "signatureType": "MATCH_SHA1",
+                "signatureValue": "d9cb70b76127ddc50ebaa961860da06bea6dc143"
+            }
+        },
+        "MATCH_SHA1:126507b834a20a4e291d46826001ad237dcecf71": {
+            "releaseId": "703d0296-9697-438c-80d4-31d9d455602c",
+            "versionCount": 1,
+            "filePathComponentSigSet": [],
+            "filePathSet": [],
+            "platformFilePathComponents": {
+                "UNKNOWN": [
+                    "a48a8166733902361f8dc6bdc5af458ac4555212",
+                    "40ef38f287ef90ef1ca4e52b86c3c76b686f101d",
+                    "e3f011edfba37732ed3018279b7166251db7d7c8",
+                    "e8b99c04baf6e3c7ee6bb93ffacea810765ebb7a",
+                    "996744b044bb99a15c0e66bfdd30414a3261c269",
+                    "bd2fd56e0d76bd7c954432d0d7e9b0b26228e10b",
+                    "500d1ad82b2a9e532e251e94d31de3f8a5cf4174"
+                ]
+            },
+            "platformFilePaths": {
+                "UNKNOWN": [
+                    "lib64",
+                    "0.168.so",
+                    "usr",
+                    "x86",
+                    "libebl_x86_64-0.168.so",
+                    "libebl",
+                    "/usr/lib64/elfutils/libebl_x86_64-0.168.so",
+                    "elfutils"
+                ]
+            },
+            "archiveContext": [
+                "opensuse_leap.tar!/fcd814dd4be0c823af37e009f1fc0acc0b790da06a5c3ec41f7a06de5a8afe15/layer.tar!/"
+            ],
+            "signature": {
+                "signatureType": "MATCH_SHA1",
+                "signatureValue": "126507b834a20a4e291d46826001ad237dcecf71"
+            }
+        },
+        "MATCH_SHA1:3790f9517937b1094ed9e5810a6bb8d4db2d7061": {
+            "releaseId": "703d0296-9697-438c-80d4-31d9d455602c",
+            "versionCount": 1,
+            "filePathComponentSigSet": [],
+            "filePathSet": [],
+            "platformFilePathComponents": {
+                "UNKNOWN": [
+                    "a48a8166733902361f8dc6bdc5af458ac4555212",
+                    "40ef38f287ef90ef1ca4e52b86c3c76b686f101d",
+                    "e3f011edfba37732ed3018279b7166251db7d7c8",
+                    "996744b044bb99a15c0e66bfdd30414a3261c269",
+                    "58aec1a879577b9106ecb5bc341b57a3b18f7b97",
+                    "bd2fd56e0d76bd7c954432d0d7e9b0b26228e10b",
+                    "be76331b95dfc399cd776d2fc68021e0db03cc4f"
+                ]
+            },
+            "platformFilePaths": {
+                "UNKNOWN": [
+                    "lib64",
+                    "0.168.so",
+                    "usr",
+                    "alpha",
+                    "libebl_alpha-0.168.so",
+                    "/usr/lib64/elfutils/libebl_alpha-0.168.so",
+                    "libebl",
+                    "elfutils"
+                ]
+            },
+            "archiveContext": [
+                "opensuse_leap.tar!/fcd814dd4be0c823af37e009f1fc0acc0b790da06a5c3ec41f7a06de5a8afe15/layer.tar!/"
+            ],
+            "signature": {
+                "signatureType": "MATCH_SHA1",
+                "signatureValue": "3790f9517937b1094ed9e5810a6bb8d4db2d7061"
+            }
+        },
+        "MATCH_SHA1:562fe00804e085cf8ce5ca67cf574e0d603a5891": {
+            "releaseId": "703d0296-9697-438c-80d4-31d9d455602c",
+            "versionCount": 1,
+            "filePathComponentSigSet": [],
+            "filePathSet": [],
+            "platformFilePathComponents": {
+                "UNKNOWN": [
+                    "a48a8166733902361f8dc6bdc5af458ac4555212",
+                    "40ef38f287ef90ef1ca4e52b86c3c76b686f101d",
+                    "e3f011edfba37732ed3018279b7166251db7d7c8",
+                    "04eb5b7641ccd38bffed2ef9b05d6c444c22a05d",
+                    "996744b044bb99a15c0e66bfdd30414a3261c269",
+                    "bd2fd56e0d76bd7c954432d0d7e9b0b26228e10b",
+                    "ffef3a3bed092999cc312521c55873b1dbf3ec46"
+                ]
+            },
+            "platformFilePaths": {
+                "UNKNOWN": [
+                    "lib64",
+                    "0.168.so",
+                    "libebl_bpf-0.168.so",
+                    "/usr/lib64/elfutils/libebl_bpf-0.168.so",
+                    "usr",
+                    "bpf",
+                    "libebl",
+                    "elfutils"
+                ]
+            },
+            "archiveContext": [
+                "opensuse_leap.tar!/fcd814dd4be0c823af37e009f1fc0acc0b790da06a5c3ec41f7a06de5a8afe15/layer.tar!/"
+            ],
+            "signature": {
+                "signatureType": "MATCH_SHA1",
+                "signatureValue": "562fe00804e085cf8ce5ca67cf574e0d603a5891"
+            }
+        },
+        "MATCH_SHA1:5efcccbcf2375ae82914e84af2a4a5d8caf2e24d": {
+            "releaseId": "703d0296-9697-438c-80d4-31d9d455602c",
+            "versionCount": 1,
+            "filePathComponentSigSet": [],
+            "filePathSet": [],
+            "platformFilePathComponents": {
+                "UNKNOWN": [
+                    "a48a8166733902361f8dc6bdc5af458ac4555212",
+                    "40ef38f287ef90ef1ca4e52b86c3c76b686f101d",
+                    "e3f011edfba37732ed3018279b7166251db7d7c8",
+                    "996744b044bb99a15c0e66bfdd30414a3261c269",
+                    "5c20077f7fe4b7683f9a5b69d3445f8bcbd7ad6a",
+                    "bd2fd56e0d76bd7c954432d0d7e9b0b26228e10b",
+                    "07523927973c128520eb9b8598bda2ce98a37579"
+                ]
+            },
+            "platformFilePaths": {
+                "UNKNOWN": [
+                    "lib64",
+                    "aarch64",
+                    "0.168.so",
+                    "libebl_aarch64-0.168.so",
+                    "usr",
+                    "/usr/lib64/elfutils/libebl_aarch64-0.168.so",
+                    "libebl",
+                    "elfutils"
+                ]
+            },
+            "archiveContext": [
+                "opensuse_leap.tar!/fcd814dd4be0c823af37e009f1fc0acc0b790da06a5c3ec41f7a06de5a8afe15/layer.tar!/"
+            ],
+            "signature": {
+                "signatureType": "MATCH_SHA1",
+                "signatureValue": "5efcccbcf2375ae82914e84af2a4a5d8caf2e24d"
+            }
+        },
+        "MATCH_SHA1:3838dcc560b326571139cb18e17c2c3293d3b1fe": {
+            "releaseId": "703d0296-9697-438c-80d4-31d9d455602c",
+            "versionCount": 1,
+            "filePathComponentSigSet": [],
+            "filePathSet": [],
+            "platformFilePathComponents": {
+                "UNKNOWN": [
+                    "a48a8166733902361f8dc6bdc5af458ac4555212",
+                    "40ef38f287ef90ef1ca4e52b86c3c76b686f101d",
+                    "20a9811b41e5fa58552d32d3bcbfe43ce54bb270",
+                    "e3f011edfba37732ed3018279b7166251db7d7c8",
+                    "996744b044bb99a15c0e66bfdd30414a3261c269",
+                    "bd2fd56e0d76bd7c954432d0d7e9b0b26228e10b",
+                    "38f0660cff7b86d4d2b96003d0a38cc282470599"
+                ]
+            },
+            "platformFilePaths": {
+                "UNKNOWN": [
+                    "lib64",
+                    "0.168.so",
+                    "usr",
+                    "libebl",
+                    "libebl_sparc-0.168.so",
+                    "sparc",
+                    "/usr/lib64/elfutils/libebl_sparc-0.168.so",
+                    "elfutils"
+                ]
+            },
+            "archiveContext": [
+                "opensuse_leap.tar!/fcd814dd4be0c823af37e009f1fc0acc0b790da06a5c3ec41f7a06de5a8afe15/layer.tar!/"
+            ],
+            "signature": {
+                "signatureType": "MATCH_SHA1",
+                "signatureValue": "3838dcc560b326571139cb18e17c2c3293d3b1fe"
+            }
+        },
+        "DEEP_NO_SIZE:fdcfca97b3a7cc5ed10fa18391fb8723": {
+            "releaseId": "703d0296-9697-438c-80d4-31d9d455602c",
+            "versionCount": 205,
+            "filePathComponentSigSet": [],
+            "filePathSet": [],
+            "platformFilePathComponents": {
+                "UNKNOWN": [
+                    "40ef38f287ef90ef1ca4e52b86c3c76b686f101d",
+                    "e3f011edfba37732ed3018279b7166251db7d7c8",
+                    "bd2fd56e0d76bd7c954432d0d7e9b0b26228e10b"
+                ]
+            },
+            "platformFilePaths": {
+                "UNKNOWN": [
+                    "lib64",
+                    "usr",
+                    "/usr/lib64/elfutils/",
+                    "elfutils"
+                ]
+            },
+            "archiveContext": [
+                "opensuse_leap.tar!/fcd814dd4be0c823af37e009f1fc0acc0b790da06a5c3ec41f7a06de5a8afe15/layer.tar!/"
+            ],
+            "signature": {
+                "signatureType": "DEEP_NO_SIZE",
+                "signatureValue": "fdcfca97b3a7cc5ed10fa18391fb8723"
+            }
+        }
+    },
+    "scanMatchNodeSet": {
+        "d9cb70b76127ddc50ebaa961860da06bea6dc143": [
+            1285
+        ],
+        "bf2e3cbf2359d50767d0dd4735d1f7b3f9ca1f4f": [
+            1344
+        ],
+        "b0269dd5afb8aac557d2f8d3016260d299fd6896": [
+            1346
+        ],
+        "3838dcc560b326571139cb18e17c2c3293d3b1fe": [
+            1287
+        ],
+        "25b287c1fa813d08aceabb1b6b6dfb826aff1f0e": [
+            1273
+        ],
+        "451aec7e2a68d3245c8bcefb7e0006803d562393": [
+            1269
+        ],
+        "05f28484134236f81ab60299546285ac1b6f0793": [
+            1283
+        ],
+        "16bcefe2c9d3bfcb4c6505d37ea1c555c23623dd": [
+            1289
+        ],
+        "3790f9517937b1094ed9e5810a6bb8d4db2d7061": [
+            1267
+        ],
+        "562fe00804e085cf8ce5ca67cf574e0d603a5891": [
+            1271
+        ],
+        "fdcfca97b3a7cc5ed10fa18391fb8723": [
+            1264
+        ],
+        "5efcccbcf2375ae82914e84af2a4a5d8caf2e24d": [
+            1265
+        ],
+        "6be17799147c9821fecfbc5a3829c1e7524c2653": [
+            1277
+        ],
+        "126507b834a20a4e291d46826001ad237dcecf71": [
+            1291
+        ],
+        "1fc899dba7083e2ce3b6815a4f58aa4570216dc5": [
+            1281
+        ],
+        "9c3346cd9eb5fc2907f33e1ef5e0b3a4415e6616": [
+            1275
+        ],
+        "7b71d8eb94581f843fb305b6b9d51fb8d6daf560": [
+            1279
+        ]
+    },
+    "externalIdDetails": [
+        {
+            "externalId": "libelf1/0.168-lp150.2.48/x86_64",
+            "parsedVersion": "0.168-lp150.2.48",
+            "forgeTypeId": 156,
+            "forgeName": "opensuse",
+            "isPartial": false,
+            "parsedVersionKbRelease": "703d0296-9697-438c-80d4-31d9d455602c",
+            "parsedVersionChannelRelease": "625e54e8-cbd3-4824-80e0-4b2863f8f0c5"
+        },
+        {
+            "externalId": "libdw1/0.168-lp150.2.48/x86_64",
+            "parsedVersion": "0.168-lp150.2.48",
+            "forgeTypeId": 156,
+            "forgeName": "opensuse",
+            "isPartial": false,
+            "parsedVersionKbRelease": "703d0296-9697-438c-80d4-31d9d455602c",
+            "parsedVersionChannelRelease": "64bbfefb-7f7c-412b-a32a-aced334f9e39"
+        },
+        {
+            "externalId": "libebl-plugins/0.168-lp150.2.48/x86_64",
+            "parsedVersion": "0.168-lp150.2.48",
+            "forgeTypeId": 156,
+            "forgeName": "opensuse",
+            "isPartial": false,
+            "parsedVersionKbRelease": "703d0296-9697-438c-80d4-31d9d455602c",
+            "parsedVersionChannelRelease": "d3806e77-5a8f-4cf7-9d02-8e2c24447570"
+        }
+    ],
+    "pathMap": {
+        "MATCH_SHA1:7b71d8eb94581f843fb305b6b9d51fb8d6daf560": [
+            "opensuse_leap.tar!/fcd814dd4be0c823af37e009f1fc0acc0b790da06a5c3ec41f7a06de5a8afe15/layer.tar!/#/usr/lib64/elfutils/libebl_ppc-0.168.so"
+        ],
+        "MATCH_SHA1:05f28484134236f81ab60299546285ac1b6f0793": [
+            "opensuse_leap.tar!/fcd814dd4be0c823af37e009f1fc0acc0b790da06a5c3ec41f7a06de5a8afe15/layer.tar!/#/usr/lib64/elfutils/libebl_s390-0.168.so"
+        ],
+        "MATCH_SHA1:6be17799147c9821fecfbc5a3829c1e7524c2653": [
+            "opensuse_leap.tar!/fcd814dd4be0c823af37e009f1fc0acc0b790da06a5c3ec41f7a06de5a8afe15/layer.tar!/#/usr/lib64/elfutils/libebl_m68k-0.168.so"
+        ],
+        "MATCH_SHA1:1fc899dba7083e2ce3b6815a4f58aa4570216dc5": [
+            "opensuse_leap.tar!/fcd814dd4be0c823af37e009f1fc0acc0b790da06a5c3ec41f7a06de5a8afe15/layer.tar!/#/usr/lib64/elfutils/libebl_ppc64-0.168.so"
+        ],
+        "MATCH_SHA1:16bcefe2c9d3bfcb4c6505d37ea1c555c23623dd": [
+            "opensuse_leap.tar!/fcd814dd4be0c823af37e009f1fc0acc0b790da06a5c3ec41f7a06de5a8afe15/layer.tar!/#/usr/lib64/elfutils/libebl_tilegx-0.168.so"
+        ],
+        "MATCH_SHA1:bf2e3cbf2359d50767d0dd4735d1f7b3f9ca1f4f": [
+            "opensuse_leap.tar!/fcd814dd4be0c823af37e009f1fc0acc0b790da06a5c3ec41f7a06de5a8afe15/layer.tar!/#/usr/lib64/libdw-0.168.so"
+        ],
+        "MATCH_SHA1:25b287c1fa813d08aceabb1b6b6dfb826aff1f0e": [
+            "opensuse_leap.tar!/fcd814dd4be0c823af37e009f1fc0acc0b790da06a5c3ec41f7a06de5a8afe15/layer.tar!/#/usr/lib64/elfutils/libebl_i386-0.168.so"
+        ],
+        "MATCH_SHA1:b0269dd5afb8aac557d2f8d3016260d299fd6896": [
+            "opensuse_leap.tar!/fcd814dd4be0c823af37e009f1fc0acc0b790da06a5c3ec41f7a06de5a8afe15/layer.tar!/#/usr/lib64/libelf-0.168.so"
+        ],
+        "MATCH_SHA1:451aec7e2a68d3245c8bcefb7e0006803d562393": [
+            "opensuse_leap.tar!/fcd814dd4be0c823af37e009f1fc0acc0b790da06a5c3ec41f7a06de5a8afe15/layer.tar!/#/usr/lib64/elfutils/libebl_arm-0.168.so"
+        ],
+        "MATCH_SHA1:9c3346cd9eb5fc2907f33e1ef5e0b3a4415e6616": [
+            "opensuse_leap.tar!/fcd814dd4be0c823af37e009f1fc0acc0b790da06a5c3ec41f7a06de5a8afe15/layer.tar!/#/usr/lib64/elfutils/libebl_ia64-0.168.so"
+        ],
+        "MATCH_SHA1:d9cb70b76127ddc50ebaa961860da06bea6dc143": [
+            "opensuse_leap.tar!/fcd814dd4be0c823af37e009f1fc0acc0b790da06a5c3ec41f7a06de5a8afe15/layer.tar!/#/usr/lib64/elfutils/libebl_sh-0.168.so"
+        ],
+        "MATCH_SHA1:126507b834a20a4e291d46826001ad237dcecf71": [
+            "opensuse_leap.tar!/fcd814dd4be0c823af37e009f1fc0acc0b790da06a5c3ec41f7a06de5a8afe15/layer.tar!/#/usr/lib64/elfutils/libebl_x86_64-0.168.so"
+        ],
+        "MATCH_SHA1:3790f9517937b1094ed9e5810a6bb8d4db2d7061": [
+            "opensuse_leap.tar!/fcd814dd4be0c823af37e009f1fc0acc0b790da06a5c3ec41f7a06de5a8afe15/layer.tar!/#/usr/lib64/elfutils/libebl_alpha-0.168.so"
+        ],
+        "MATCH_SHA1:562fe00804e085cf8ce5ca67cf574e0d603a5891": [
+            "opensuse_leap.tar!/fcd814dd4be0c823af37e009f1fc0acc0b790da06a5c3ec41f7a06de5a8afe15/layer.tar!/#/usr/lib64/elfutils/libebl_bpf-0.168.so"
+        ],
+        "MATCH_SHA1:5efcccbcf2375ae82914e84af2a4a5d8caf2e24d": [
+            "opensuse_leap.tar!/fcd814dd4be0c823af37e009f1fc0acc0b790da06a5c3ec41f7a06de5a8afe15/layer.tar!/#/usr/lib64/elfutils/libebl_aarch64-0.168.so"
+        ],
+        "MATCH_SHA1:3838dcc560b326571139cb18e17c2c3293d3b1fe": [
+            "opensuse_leap.tar!/fcd814dd4be0c823af37e009f1fc0acc0b790da06a5c3ec41f7a06de5a8afe15/layer.tar!/#/usr/lib64/elfutils/libebl_sparc-0.168.so"
+        ],
+        "DEEP_NO_SIZE:fdcfca97b3a7cc5ed10fa18391fb8723": [
+            "opensuse_leap.tar!/fcd814dd4be0c823af37e009f1fc0acc0b790da06a5c3ec41f7a06de5a8afe15/layer.tar!/#/usr/lib64/elfutils/"
+        ]
+    },
+    "projectIdentifier": 1256663,
+    "projectGroupIdentifier": 1256663
+}
